@@ -41,8 +41,8 @@ Usaremos **GitHub Projects** no estilo **Kanban** com as seguintes colunas:
 
 ## 👥 Equipe
 - Gabriel Alves
-- [Nome do colega 1]
-- [Nome do colega 2]
-- [Nome do colega 3]
+- Lucas Pinto
+- Eduardo José Valente de Albuquerque
+
 
 
